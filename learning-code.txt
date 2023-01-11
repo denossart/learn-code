@@ -9,6 +9,11 @@ A set of instructions to send to a device
 A single instruction in a program
 
 
+==Variable
+
+A statement that tells a device to store data in its memory
+
+
 ==High-level and low-level languages
 
 Examples: Java (HL), Assembly (LL)
