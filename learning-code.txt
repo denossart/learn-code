@@ -4,8 +4,14 @@
 A set of instructions to send to a device
 
 
-==High-level and low-level
+==A statement
 
+A single instruction in a program
+
+
+==High-level and low-level languages
+
+Examples: Java (HL), Assembly (LL)
 
 
 ==Sources
