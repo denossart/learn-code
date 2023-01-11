@@ -1,5 +1,11 @@
 
-==
+==A program
+
+A set of instructions to send to a device
+
+
+==High-level and low-level
+
 
 
 ==Sources
