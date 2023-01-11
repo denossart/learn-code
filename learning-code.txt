@@ -1,0 +1,13 @@
+
+==
+
+
+==Sources
+
+All free
+
+--GitHub
+Microsoft Azure Advocates curriculum "Web-Dev-For-Beginners"
+
+--Microsoft Learn
+Learning path "Web Development for Beginners" (6 modules), module 1/6 "Introduction to programming" (10 units)
