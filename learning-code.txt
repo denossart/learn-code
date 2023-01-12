@@ -13,6 +13,15 @@ A single instruction in a program
 
 A statement that tells a device to store data in its memory
 
+Unique name
+
+Value might change over time
+
+
+==Flow control
+
+Some statements change the flow, i.e. the "if...else" statement
+
 
 ==High-level and low-level languages
 
