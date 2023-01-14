@@ -21,10 +21,15 @@
 ==WEB DEV COURSES
 
 --Free
-> https://www.w3schools.com/where_to_start.asp
+> w3schools.com/where_to_start.asp
+> freecodecamp.org
+> codewars.com
 
 --Paid
 > frontendmasters.com/learn
+> pluralsight.com
+> udemy.com
+> udacity.com
 
 
 ==WEB DEV TOOLS
