@@ -78,12 +78,26 @@ Others: NPM, Yarn
 --W3 Schools
 
 
+==GITHUB
+
+Cf learning-git-summary.txt
+
+--Git
+Distributed version control system
+
+--GitHub
+Cloud-based version control system
+
+
 ==SOURCES
 
 All free on time of writing
 
 --GitHub
 ----Microsoft Azure Advocates curriculum "Web-Dev-For-Beginners"
+------Getting started lessons
+--------Intro to programming languages
+--------GitHub basics
 
 --Microsoft Learn
 ----Learning path "Web Development for Beginners" (6 modules)
