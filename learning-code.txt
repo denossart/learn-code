@@ -32,6 +32,46 @@ Some statements change the flow of the program, i.e. the "if...else" statement
 ----Assembly
 
 
+==DEVELOPMENT ENVIRONMENT
+
+--Editors (write, run, debug)
+--Browser technologies (view, developer tools)
+
+
+==COMMAND LINE TOOLS
+
+--Windows
+----PowerShell (default)
+----Command Line (default)
+----Windows Terminal
+----mintty
+----Git
+
+--macOS
+----Terminal (default)
+----iTerm
+----PowerShell
+----Git
+
+--Linux
+----Bash
+----KDE Console
+----PowerShell
+----Git
+
+Others: NPM, Yarn
+
+
+==DEVELOPER DOCUMENTATION
+
+--Mozilla Developer Network (MDN)
+--Frontend Masters
+
+
+
+
+
+
 ==SOURCES
 
 All free on time of writing
