@@ -37,6 +37,9 @@ Some statements change the flow of the program, i.e. the "if...else" statement
 --Editors (write, run, debug)
 --Browser technologies (view, developer tools)
 
+--Node.js: runs JavaScript code outside the browser
+Install using NVM
+
 
 ==COMMAND LINE TOOLS
 
@@ -82,3 +85,8 @@ All free on time of writing
 --Microsoft Learn
 ----Learning path "Web Development for Beginners" (6 modules)
 ------Module 1/6 "Introduction to programming" (10 units)
+------Module 2/6 "Learn the basics of web accessibility" (7 units)
+------Module 3/6 "JavaScript variables and data types" (7 units)
+------Module 4/6 "Create modular code by using functions in JavaScript" (9 units)
+------Module 5/6 "Make decisions with JavaScript" (8 units)
+------Module 6/6 "JavaScript arrays and loops" (7 units)
