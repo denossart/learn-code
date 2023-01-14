@@ -1,6 +1,33 @@
 
-==OPEN-SOURCE COLLABORATIVE
+==EDITORS
+> https://www.sublimetext.com/
 
---Client-side tooling
+
+==CLIENT-SIDE TOOLING
 > developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Overview
 
+
+==NODE.JS
+
+--NVM (installs Node.js)
+
+----macOS, Windows with Linux
+> github.com/nvm-sh/nvm
+
+----Windows without WSL
+> github.com/coreybutler/nvm-windows
+
+
+==WEB DEV COURSES
+
+--Free
+> https://www.w3schools.com/where_to_start.asp
+
+--Paid
+> frontendmasters.com/learn
+
+
+==WEB DEV TOOLS
+> learn.microsoft.com/en-gb/microsoft-edge/#microsoft-edge-for-developers
+> web.dev
+> developer.mozilla.org/en-US/docs/Web
