@@ -1,39 +1,44 @@
 
-==A program
+==A PROGRAM
 
 A set of instructions to send to a device
 
 
-==A statement
+==A STATEMENT
 
 A single instruction in a program
 
 
-==Variable
+==A VARIABLE
 
-A statement that tells a device to store data in its memory
+A statement that tells a device to store data in memory
 
 Unique name
 
 Value might change over time
 
 
-==Flow control
+==FLOW CONTROL
 
-Some statements change the flow, i.e. the "if...else" statement
-
-
-==High-level and low-level languages
-
-Examples: Java (HL), Assembly (LL)
+Some statements change the flow of the program, i.e. the "if...else" statement
 
 
-==Sources
+==LANGUAGES
 
-All free
+--High-level
+----Java
+
+--Low-level
+----Assembly
+
+
+==SOURCES
+
+All free on time of writing
 
 --GitHub
-Microsoft Azure Advocates curriculum "Web-Dev-For-Beginners"
+----Microsoft Azure Advocates curriculum "Web-Dev-For-Beginners"
 
 --Microsoft Learn
-Learning path "Web Development for Beginners" (6 modules), module 1/6 "Introduction to programming" (10 units)
+----Learning path "Web Development for Beginners" (6 modules)
+------Module 1/6 "Introduction to programming" (10 units)
