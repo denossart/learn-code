@@ -74,10 +74,8 @@ Others: NPM, Yarn
 
 --Mozilla Developer Network (MDN)
 --Frontend Masters
-
-
-
-
+--Google Web.dev
+--W3 Schools
 
 
 ==SOURCES
