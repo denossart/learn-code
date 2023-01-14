@@ -35,6 +35,11 @@ Some statements change the flow of the program, i.e. the "if...else" statement
 ==DEVELOPMENT ENVIRONMENT
 
 --Editors (write, run, debug)
+----Visual Studio Code
+----Atom (deprecated)
+----Sublime Text
+
+
 --Browser technologies (view, developer tools)
 
 --Node.js: runs JavaScript code outside the browser
