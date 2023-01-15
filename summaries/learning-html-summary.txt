@@ -7,6 +7,15 @@ CSS adds styling to content
 As a rule, HTML and CSS should remain separate
 
 
+==ELEMENTS
+
+Identified by < > surrounding the element name
+
+
+==TAGS
+
+
+==ATTRIBUTES
 
 
 ==SOURCES
