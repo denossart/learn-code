@@ -9,13 +9,27 @@ As a rule, HTML and CSS should remain separate
 
 ==ELEMENTS
 
-Identified by < > surrounding the element name
+The part (element name) between <>
+
+Ex. <a>
 
 
 ==TAGS
 
+The combination of the element name and the <>
+
+Content is usually sourrounded by an opening tag <> and a closing tag </>
+
+Ex. <a>...</a>
+
 
 ==ATTRIBUTES
+
+Properties that provide additional information about an element
+
+They reside in the opening tag and follow the format: name="value"
+
+Ex. <a href="...">...</a>
 
 
 ==SOURCES
