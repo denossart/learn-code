@@ -1,0 +1,16 @@
+
+==PURPOSE
+HTML adds structure and meaning to content
+
+CSS adds styling to content
+
+As a rule, HTML and CSS should remain separate
+
+
+
+
+==SOURCES
+
+Free at the time of writing
+
+> learn.shayhowe.com/html-css
