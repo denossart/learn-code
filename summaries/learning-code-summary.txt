@@ -38,6 +38,8 @@ Some statements change the flow of the program, i.e. the "if...else" statement
 ----Visual Studio Code
 ----Atom (deprecated)
 ----Sublime Text
+----Notepad++ (Windows)
+----TextWrangler (macOS)
 
 
 --Browser technologies (view, developer tools)
