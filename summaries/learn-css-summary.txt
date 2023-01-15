@@ -21,6 +21,11 @@ Determines the style to apply
 
 ==REFERENCING CSS
 
+--External style sheet
+Referenced from within <head> of HTML document
+
+--Internal styles
+--Inline styles
 
 
 ==SOURCES
