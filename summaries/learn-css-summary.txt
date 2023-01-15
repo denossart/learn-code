@@ -9,7 +9,6 @@
 
 
 ==DECLARATION
-
 Between {}
 
 --Property
@@ -26,6 +25,18 @@ Referenced from within <head> of HTML document
 
 --Internal styles
 --Inline styles
+
+
+==CSS RESETS
+Default style differs from browser to browser
+
+--Eric Meyer's reset
+--Nicolas Gallagher's reset
+--Lots of others
+
+
+==CSS CASCADE
+From top to bottom
 
 
 ==SOURCES
