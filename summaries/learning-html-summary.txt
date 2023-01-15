@@ -22,6 +22,8 @@ Content is usually sourrounded by an opening tag <> and a closing tag </>
 
 Ex. <a>...</a>
 
+Selfclosing tags are possible
+
 
 ==ATTRIBUTES
 
@@ -39,6 +41,18 @@ Ex. <a href="...">...</a>
     <head></head>
     <body></body>
   </html>
+
+--Head
+Not displayed on the web page
+----Title
+----Metadata
+----External links
+
+--Body
+The visible part of the web page
+
+
+==
 
 
 ==SOURCES
