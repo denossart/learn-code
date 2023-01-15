@@ -52,7 +52,9 @@ Not displayed on the web page
 The visible part of the web page
 
 
-==
+==VALIDATORS
+
+Scans code for errors
 
 
 ==SOURCES
