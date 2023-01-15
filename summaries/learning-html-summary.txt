@@ -32,6 +32,15 @@ They reside in the opening tag and follow the format: name="value"
 Ex. <a href="...">...</a>
 
 
+==REQUIRED STRUCTURE
+
+  <!DOCTYPE html>
+  <html>
+    <head></head>
+    <body></body>
+  </html>
+
+
 ==SOURCES
 
 Free at the time of writing
