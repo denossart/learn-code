@@ -1,9 +1,25 @@
 
-==SELECTORS
+==SELECTOR
 
-==PROPERTIES
+--Type selectors
 
-==VALUES
+--Attribute selectors
+----Class selectors (.class-name)
+----ID selectors (#id-name)
+
+
+==DECLARATION
+
+Between {}
+
+--Property
+Determines the style to apply
+--:
+--Value
+--;
+
+
+==REFERENCING CSS
 
 
 
