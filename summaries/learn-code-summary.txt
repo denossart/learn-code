@@ -18,9 +18,9 @@ GET-POST-PUT-DELETE
 --Simultaneous requests
 The browser goes through the HTML file and requests additional resources via HTTP/HTTPS (CSS files, images, videos, JavaScript files,...)
 
---HTML: content/structure
+--HTML: structure to content
 
---CSS: style
+--CSS: style to content
 
 --JavaScript: behavior
 A static webpage: page without JavaScript
