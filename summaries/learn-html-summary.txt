@@ -59,10 +59,12 @@ Scans code for errors
 ==LINKS
 
 --Relative links
-Shortened URL, relative to the .html file containing the link
+Link to a page on the same website and relative to the .html file containing the link
+
+No domain name needed
 
 --Absolute links
-Full path
+Link to an external website, with domain name
 
 
 ==SOURCES
