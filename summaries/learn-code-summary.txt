@@ -11,12 +11,19 @@
 Request-response: data is TX and RX
 
 --HTTP/HTTPS
-----GET
-----POST
-----PUT
-----DELETE
+GET-POST-PUT-DELETE
 
 --HTTP status codes
+
+--Simultaneous requests
+The browser goes through the HTML file and requests additional resources via HTTP/HTTPS (CSS files, images, videos, JavaScript files,...)
+
+--HTML: content/structure
+
+--CSS: style
+
+--JavaScript: behavior
+A static webpage: page without JavaScript
 
 
 ==A PROGRAM
