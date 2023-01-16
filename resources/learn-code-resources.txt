@@ -1,13 +1,23 @@
 
-==EDITORS
+==BOOKS
+--Duckett Jon, "HTML and CSS: Design and Build Websites", Wiley, 11-2011 (https://bookshop.org/p/books/html-and-css-design-and-build-websites-jon-duckett/10289632?ean=9781118008188)
+
+--Haverbeke Marijn, "Eloquent JavaScript. A Modern Introduction to Programming", No Starch Pres, 2018 (free e-book)
+
+--Laakman McDowell Gayle, "Cracking the Coding Interview: 189 Programming Questions and Solutions", Careercup, 07-2015(https://bookshop.org/p/books/cracking-the-coding-interview-189-programming-questions-and-solutions-gayle-laakmann-mcdowell/7038472?ean=9780984782857)
+
+
+==LINKS
+
+--EDITORS
 > https://www.sublimetext.com/
 
 
-==CLIENT-SIDE TOOLING
+--CLIENT-SIDE TOOLING
 > developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Overview
 
 
-==NODE.JS
+--NODE.JS
 
 --NVM (installs Node.js)
 
@@ -18,21 +28,32 @@
 > github.com/coreybutler/nvm-windows
 
 
-==WEB DEV COURSES
+--WEB DEV COURSES
 
---Free
+----Free
 > w3schools.com/where_to_start.asp
 > freecodecamp.org
 > codewars.com
 
---Paid
+----Paid
 > frontendmasters.com/learn
 > pluralsight.com
 > udemy.com
 > udacity.com
 
 
-==WEB DEV TOOLS
+--WEB DEV TOOLS
 > learn.microsoft.com/en-gb/microsoft-edge/#microsoft-edge-for-developers
 > web.dev
 > developer.mozilla.org/en-US/docs/Web
+> w3.org
+> dev.to
+> stackoverflow.com
+> caniuse.com
+> codecademy.com/workspaces/new
+
+
+==COMMUNITY
+--Codeacademy Forums
+----discuss.codecademy.com
+----discord.com/invite/codecademy)
