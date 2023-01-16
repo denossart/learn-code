@@ -1,0 +1,10 @@
+
+==QUERY
+A program to retrieve data from a table
+
+
+==SOURCE
+
+Paid
+--Codeacademy Full-Stack Engineer
+
