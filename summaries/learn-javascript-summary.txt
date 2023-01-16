@@ -1,0 +1,21 @@
+
+==EVENTS
+JavaScript responds to browser events
+
+Ex.: mouse position
+
+
+==FUNCTIONS
+Reusable blocks of code designed to perform a specific task
+
+
+==DOCUMENT OBJECT MODEL
+JavaScript can change the structure/style of a webpage via the DOM
+
+
+==SOURCES
+
+--Paid
+Codeacademy Full-Stack Engineer
+
+
