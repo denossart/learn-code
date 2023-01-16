@@ -36,7 +36,8 @@ JavaScript framework to fetch data while the web page is running
 --Spring, Django, Ruby-on-Rails: web frameworks that connect to databases.  Enables users to create, store, display
 
 
-==
+==MOBILE
+Responsive web design
 
 
 ==A PROGRAM
