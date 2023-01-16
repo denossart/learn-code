@@ -1,12 +1,27 @@
 
 ==EVENTS
-JavaScript responds to browser events
+Allow JavaScript to respond, usually to user behavior
 
 Ex.: mouse position
 
 
 ==FUNCTIONS
 Reusable blocks of code designed to perform a specific task
+
+A function is triggered by an event
+
+
+==SCRIPT
+In HTML, JavaScript is between <script> tags
+
+
+==HTML ATTRIBUTES
+HTML attributes can set events
+
+--The attribute name is the event
+--The attribute value is the function
+
+Ex.: onclick="changeColor()"
 
 
 ==DOCUMENT OBJECT MODEL
