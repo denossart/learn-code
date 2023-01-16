@@ -8,10 +8,9 @@ As a rule, HTML and CSS should remain separate
 
 
 ==ELEMENTS
+The combination of an HTML opening tag, content and closing tag
 
-The part (element name) between <>
-
-Ex. <a>
+Ex. <p>This is a paragraph</p>
 
 
 ==TAGS
@@ -60,5 +59,7 @@ Scans code for errors
 ==SOURCES
 
 Free at the time of writing
-
 > learn.shayhowe.com/html-css
+
+Paid
+> Codeacademy Full-Stack Engineer
