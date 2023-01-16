@@ -1,4 +1,24 @@
 
+==HISTORY
+
+--1969 ARPANET and TCP/IP standards
+
+--Internet: actual network of devices
+
+--1989 world wide web (Tim Berners-Lee): collection of interlinked websites and web resources
+
+==CLIENT-SERVER MODEL
+Request-response: data is TX and RX
+
+--HTTP/HTTPS
+----GET
+----POST
+----PUT
+----DELETE
+
+--HTTP status codes
+
+
 ==A PROGRAM
 
 A set of instructions to send to a device
@@ -93,7 +113,7 @@ Cloud-based version control system
 
 ==SOURCES
 
-All free on time of writing
+free on time of writing
 
 --GitHub
 ----Microsoft Azure Advocates curriculum "Web-Dev-For-Beginners"
@@ -109,3 +129,8 @@ All free on time of writing
 ------Module 4/6 "Create modular code by using functions in JavaScript" (9 units)
 ------Module 5/6 "Make decisions with JavaScript" (8 units)
 ------Module 6/6 "JavaScript arrays and loops" (7 units)
+
+
+Paid
+
+--Codeacademy Full-Stack Engineer
