@@ -11,8 +11,10 @@ Reusable blocks of code designed to perform a specific task
 A function is triggered by an event
 
 
-==SCRIPT
-In HTML, JavaScript is between <script> tags
+==ADDING JAVASCRIPT
+
+--In HTML: the JavaScript code is added between <script> tags
+--In an external file: the file is linked via a <script src=""> element in the <head>
 
 
 ==HTML ATTRIBUTES
