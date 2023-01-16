@@ -9,6 +9,12 @@
 
 ==LINKS
 
+--GENERAL ARTICLES
+> codeburst.io/how-to-become-a-web-developer-101-5db4f11e611 (useful links at the end)
+> vox.com/2014/6/16/18076282/the-internet
+> codecademy.com/resources/blog/programming-languages/
+
+
 --EDITORS
 > https://www.sublimetext.com/
 
