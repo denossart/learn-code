@@ -56,6 +56,15 @@ The visible part of the web page
 Scans code for errors
 
 
+==LINKS
+
+--Relative links
+Shortened URL, relative to the .html file containing the link
+
+--Absolute links
+Full path
+
+
 ==SOURCES
 
 Free at the time of writing
