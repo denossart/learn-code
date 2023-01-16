@@ -55,6 +55,9 @@ A set of instructions to send to a device
 Analogy: recipe
 Author (programmer) > recipe (code) > cook (computer)
 
+--Programming: mental process of thinking up instructions
+--Coding: written process of transforming ideas to a language the computer understands
+
 
 ==A STATEMENT
 
