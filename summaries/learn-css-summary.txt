@@ -41,5 +41,8 @@ From top to bottom
 
 ==SOURCES
 
+Free
 > learn.shayhowe.com/html-css
 
+Paid
+> Codecademy Full-Stack Engineer
