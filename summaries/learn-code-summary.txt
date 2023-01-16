@@ -27,7 +27,7 @@ A static webpage: page without JavaScript
 
 
 ==WEB 2.0
-Static > Dynamic
+Static > Dynamic (auto-updates) / Interactive (Like, Comment,...) => Social interaction
 Consuming > Generating and sharing
 
 --jQuery
