@@ -26,6 +26,19 @@ The browser goes through the HTML file and requests additional resources via HTT
 A static webpage: page without JavaScript
 
 
+==WEB 2.0
+Static > Dynamic
+Consuming > Generating and sharing
+
+--jQuery
+JavaScript framework to fetch data while the web page is running
+
+--Spring, Django, Ruby-on-Rails: web frameworks that connect to databases.  Enables users to create, store, display
+
+
+==
+
+
 ==A PROGRAM
 
 A set of instructions to send to a device
