@@ -1,4 +1,8 @@
 
+==GENERAL FORMATTING
+> https://developers.google.com/style/html-formatting
+
+
 ==ELEMENTS
 > codecademy.com/learn/paths/fscj-22-web-development-foundations/tracks/fscj-22-fundamentals-of-html/modules/wdcp-22-learn-html-elements-bb06b814-30b2-4873-9450-18c0a1fa7124/cheatsheet
 
@@ -17,3 +21,14 @@
 
 ==HEADINGS
 > w3.org/WAI/tutorials/page-structure/headings/
+
+
+==SPANS
+> https://www.youtube.com/watch?v=M9CQb4sEKvE
+
+
+
+
+
+
+
