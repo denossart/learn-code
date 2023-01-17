@@ -1,0 +1,14 @@
+
+==CHEATSHEETS
+
+--Elements
+codecademy.com/learn/paths/fscj-22-web-development-foundations/tracks/fscj-22-fundamentals-of-html/modules/wdcp-22-learn-html-elements-bb06b814-30b2-4873-9450-18c0a1fa7124/cheatsheet
+
+--Structure
+codecademy.com/learn/paths/fscj-22-web-development-foundations/tracks/fscj-22-fundamentals-of-html/modules/wdcp-22-learn-html-structure-c107c169-b1ea-46cc-868e-4ad7c884a44c/cheatsheet
+
+--Tables
+https://www.codecademy.com/learn/paths/fscj-22-web-development-foundations/tracks/fscj-22-fundamentals-of-html/modules/wdcp-22-learn-html-tables-6d939404-9baa-4c0a-b70b-229635097539/cheatsheet
+
+--Semantics
+https://www.codecademy.com/learn/paths/fscj-22-web-development-foundations/tracks/fscj-22-fundamentals-of-html/modules/wdcp-22-semantic-html-44fa9550-9f1e-49de-b4d6-295acba84038/cheatsheet
