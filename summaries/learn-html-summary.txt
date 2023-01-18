@@ -59,6 +59,10 @@ The visible part of the web page
 
 ==HEADING HIERARCHY
 
+--Avoid paragraph skipping
+
+
+==SEMANTICS
 
 
 
