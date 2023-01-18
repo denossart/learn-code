@@ -71,7 +71,10 @@ Link to an external website, with domain name
 Accessibility - SEO
 
 
-==
+==VIDEO
+
+--Controls attribute (no value)
+--Text between tags to be displayed when browser is unable to load the video
 
 
 
