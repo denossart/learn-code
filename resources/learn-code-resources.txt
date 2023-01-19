@@ -11,6 +11,7 @@
 
 --GENERAL ARTICLES
 > codeburst.io/how-to-become-a-web-developer-101-5db4f11e611 (useful links at the end)
+> https://www.youtube.com/watch?v=ZpMbgfJO5js
 > vox.com/2014/6/16/18076282/the-internet
 > codecademy.com/resources/blog/programming-languages/
 
@@ -63,3 +64,7 @@
 --Codeacademy Forums
 ----discuss.codecademy.com
 ----discord.com/invite/codecademy)
+
+
+==DEVELOPMENT CYCLE
+> https://www.youtube.com/watch?v=hpn8MPHOpDo
