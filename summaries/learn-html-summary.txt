@@ -121,8 +121,20 @@ Each requires a <tr>
 ==SEMANTIC HTML
 Accessibility - SEO - Structure
 
-
-
+--<header>
+--<nav>
+--<main>
+--<footer>
+--<article>
+--<section>
+--<aside>
+--<figure>
+--<figcaption>
+--<audio>
++ <source src="..." type="..." controls>
+--<video controls autoplay loop>
++ text between opening/closing tag should the video not load
+--<embed> - Deprecated!
 
 
 ==SOURCES
