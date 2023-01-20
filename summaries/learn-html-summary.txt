@@ -118,6 +118,13 @@ To section of headers, body and footer data
 Each requires a <tr>
 
 
+==SEMANTIC HTML
+
+
+
+
+
+
 ==SOURCES
 
 Free at the time of writing
