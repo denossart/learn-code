@@ -119,7 +119,7 @@ Each requires a <tr>
 
 
 ==SEMANTIC HTML
-
+Accessibility - SEO - Structure
 
 
 
