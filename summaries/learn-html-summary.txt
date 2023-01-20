@@ -115,6 +115,8 @@ Ex.: an event on a calendar that spans multiple hours
 --<tbody> - <thead> - <tfoot>
 To section of headers, body and footer data
 
+Each requires a <tr>
+
 
 ==SOURCES
 
