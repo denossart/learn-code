@@ -112,8 +112,8 @@ Ex.: an event on a calendar that spans multiple days
 ----rowspan="..."
 Ex.: an event on a calendar that spans multiple hours
 
---<tbody> and <thead>
-To section of headers and body data
+--<tbody> - <thead> - <tfoot>
+To section of headers, body and footer data
 
 
 ==SOURCES
