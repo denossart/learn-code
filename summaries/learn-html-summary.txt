@@ -103,6 +103,9 @@ Accessibility - SEO
 ----Scope attribute
 Value is either "row" or "col"
 
+--Table border
+Not in HTML (border="" is deprecated), but in CSS
+
 
 ==SOURCES
 
