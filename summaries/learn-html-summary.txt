@@ -97,6 +97,13 @@ Accessibility - SEO
 <!-- -->
 
 
+==TABLES
+
+--Table heading <th>
+----Scope attribute
+Value is either "row" or "col"
+
+
 ==SOURCES
 
 Free at the time of writing
