@@ -106,6 +106,12 @@ Value is either "row" or "col"
 --Table border
 Not in HTML (border="" is deprecated), but in CSS
 
+--Spanning
+----colspan="..."
+Ex.: an event on a calendar that spans multiple days
+----rowspan="..."
+Ex.: an event on a calendar that spans multiple hours
+
 
 ==SOURCES
 
