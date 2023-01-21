@@ -3,9 +3,9 @@
 
 --Type selectors
 --Universal selector (*)
---Class selectors (.class-name)
---ID selectors (#id-name)
 --Attribute selectors
+----Class selectors (.class-name)
+----ID selectors (#id-name)
 
 
 ==DECLARATIONS
