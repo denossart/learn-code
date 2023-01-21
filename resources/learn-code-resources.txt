@@ -1,10 +1,15 @@
 
 ==BOOKS
---Duckett Jon, "HTML and CSS: Design and Build Websites", Wiley, 11-2011 (https://bookshop.org/p/books/html-and-css-design-and-build-websites-jon-duckett/10289632?ean=9781118008188)
+
+--Duckett Jon, "HTML and CSS: Design and Build Websites", Wiley, 11-2011 (bookshop.org/p/books/html-and-css-design-and-build-websites-jon-duckett/10289632?ean=9781118008188)
 
 --Haverbeke Marijn, "Eloquent JavaScript. A Modern Introduction to Programming", No Starch Pres, 2018 (free e-book)
 
---Laakman McDowell Gayle, "Cracking the Coding Interview: 189 Programming Questions and Solutions", Careercup, 07-2015(https://bookshop.org/p/books/cracking-the-coding-interview-189-programming-questions-and-solutions-gayle-laakmann-mcdowell/7038472?ean=9780984782857)
+--Laakman McDowell Gayle, "Cracking the Coding Interview: 189 Programming Questions and Solutions", Careercup, 07-2015(bookshop.org/p/books/cracking-the-coding-interview-189-programming-questions-and-solutions-gayle-laakmann-mcdowell/7038472?ean=9780984782857)
+
+--Howe Shay, "Learn to Code HTML and CSS. Develop and Style Websites", Pearson Education, 04-2014 (ebooks.com/en-be/book/1683368/learn-to-code-html-and-css/shay-howe/?_c=1)
+
+--Mischook Stefan, "Build your website now", How Books, 07-2015 (thriftbooks.com/a/stefan-mischook/2330405/
 
 
 ==LINKS
@@ -51,6 +56,7 @@
 
 --WEB DEV TOOLS
 > learn.microsoft.com/en-gb/microsoft-edge/#microsoft-edge-for-developers
+> learn.microsoft.com/en-gb/training/paths/web-development-101/
 > web.dev
 > developer.mozilla.org/en-US/docs/Web
 > w3.org
@@ -58,7 +64,11 @@
 > stackoverflow.com
 > caniuse.com
 > codecademy.com/workspaces/new
+> wd4e.com/lessons
 
+
+--COMPUTER SCIENCE
+> youtube.com/@Computerphile
 
 ==COMMUNITY
 --Codeacademy Forums
@@ -68,3 +78,7 @@
 
 ==DEVELOPMENT CYCLE
 > https://www.youtube.com/watch?v=hpn8MPHOpDo
+
+
+
+
