@@ -1,14 +1,14 @@
 
-==SELECTOR
+==SELECTORS
 
 --Type selectors
-
+--Universal selector (*)
+--Class selectors (.class-name)
+--ID selectors (#id-name)
 --Attribute selectors
-----Class selectors (.class-name)
-----ID selectors (#id-name)
 
 
-==DECLARATION
+==DECLARATIONS
 Between {}
 
 --Property
