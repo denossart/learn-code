@@ -4,6 +4,9 @@
 --Type selectors
 --Universal selector (*)
 --Attribute selectors
+----General
+------[attribute-name]
+------type[attribute*=value]
 ----Class selectors (.class-name)
 ----ID selectors (#id-name)
 
