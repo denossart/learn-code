@@ -24,7 +24,10 @@ Determines the style to apply
 Referenced from within <head> of HTML document
 
 --Internal styles
+HTML <style> element in <head>
+
 --Inline styles
+HTML attribute style="...:..."
 
 
 ==CSS RESETS
@@ -37,6 +40,9 @@ Default style differs from browser to browser
 
 ==CSS CASCADE
 From top to bottom
+
+
+
 
 
 ==SOURCES
