@@ -8,6 +8,7 @@
 ------[attribute-name]
 ------type[attribute*=value]
 ----Class selectors (.class-name)
+------Pseudo-class (:pseudo-class-name)
 ----ID selectors (#id-name)
 
 
