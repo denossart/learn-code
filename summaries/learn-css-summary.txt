@@ -44,13 +44,14 @@ Default style differs from browser to browser
 --Lots of others
 
 
-==SPECIFICITY: I.C.T
-
-
-
 ==CSS CASCADE
 From top to bottom
 
+
+==SPECIFICITY: I.C.T
+
+
+==CHAINING
 
 
 
