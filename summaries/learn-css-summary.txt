@@ -54,6 +54,8 @@ From top to bottom
 ==CHAINING
 
 
+==DESCENDANT COMBINATOR
+
 
 
 ==SOURCES
