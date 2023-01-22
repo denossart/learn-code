@@ -1,12 +1,14 @@
 
-==RESETS
+==GENERAL THEORY
+> https://developer.mozilla.org/en-US/docs/Web/CSS
 
+
+==RESETS
 > meyerweb.com/eric/tools/css/reset/
 > necolas.github.io/normalize.css/
 
 
 ==TERMINOLOGY
-
 > impressivewebs.com/css-terms-definitions/
 
 
