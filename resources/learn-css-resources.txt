@@ -8,3 +8,13 @@
 ==TERMINOLOGY
 
 > impressivewebs.com/css-terms-definitions/
+
+
+==COLOR THEORY
+
+--BOOKS
+> bol.com/nl/nl/p/non-designers-design-book/9200000028422731
+
+--LINKS
+> webaim.org/resources/contrastchecker/
+> https://colorsupplyyy.com/app/
