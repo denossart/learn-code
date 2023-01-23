@@ -77,7 +77,10 @@ Opposite of transparency
 
 ==BOX MODEL
 
-...
+--DIMENSIONS
+--BORDERS
+--PADDINGS
+--MARGINS
 
 
 
