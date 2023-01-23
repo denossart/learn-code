@@ -76,6 +76,7 @@ Opposite of transparency
 
 
 ==BOX MODEL
+Content - padding - border - margin
 
 --DIMENSIONS
 --BORDERS
