@@ -78,6 +78,10 @@ Opposite of transparency
 ==BOX MODEL: C.P.B.M.
 Content - padding - border - margin
 
+--WIDTH-HEIGHT
+You can set a minimum/maximum width or height
+
+
 --DIMENSIONS
 
 --BORDERS
