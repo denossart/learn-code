@@ -45,6 +45,13 @@
 --SMALL
 > https://www.youtube.com/watch?v=InA5Ff7mxrc (20 min)
 
+--PORTFOLIO
+> https://discuss.codecademy.com/t/guide-how-to-build-a-web-dev-portfolio/394816
+
+
+
+
+
 
 
 
