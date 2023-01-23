@@ -116,6 +116,9 @@ The "overflow" property deals with this: visible - hidden - scroll
 > width and height set to the same value
 > border-radius: 50%
 
+--Box Model reset
+Set margin and height to 0
+
 
 ==SOURCES
 
