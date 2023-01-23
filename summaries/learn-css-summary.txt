@@ -96,6 +96,15 @@ When the parent (aka containing element aka container) isn't large enough for it
 The "overflow" property deals with this: visible - hidden - scroll
 
 
+
+
+==TIPS&TRICKS
+
+--Circle
+> width and height set to the same value
+> border-radius: 50%
+
+
 ==SOURCES
 
 Free
