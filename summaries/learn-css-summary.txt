@@ -78,6 +78,8 @@ Opposite of transparency
 ==BOX MODEL: C.P.B.M.
 Content - padding - border - margin
 
+User agent (aka browser) default stylesheets
+
 --WIDTH-HEIGHT
 You can set a range = minimum/maximum width or height
 
