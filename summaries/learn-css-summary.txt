@@ -81,7 +81,7 @@ Opposite of transparency
 
 
 ==BOX MODEL: C.P.B.M.
-Content - padding - border - margin
+Content - Padding - Border - Margin
 
 User agent (aka browser) default stylesheets
 
