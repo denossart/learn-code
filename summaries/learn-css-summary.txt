@@ -111,6 +111,12 @@ When the parent (aka containing element aka container) isn't large enough for it
 The "overflow" property deals with this:
 "hidden" - "visible" - "scroll"
 
+--CHANGING THE BOX MODEL
+Because of difficulty of calculating the size
+
+----Content-Box
+----Border-Box
+
 
 ==VISIBILITY
 "hidden" - "visible" - "collapse"
