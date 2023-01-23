@@ -126,6 +126,12 @@ Difference "display: none" and "visibility: hidden"
 --Box Model reset
 Set margin and height to 0
 
+--Center
+margin: 0 auto;
+
+Works only if the parent has a width
+
+
 
 
 ==SOURCES
