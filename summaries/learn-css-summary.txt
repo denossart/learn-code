@@ -114,7 +114,7 @@ The "overflow" property deals with this: visible - hidden - scroll
 ==VISIBILITY
 "hidden" - "visible" - "collapse"
 
-
+Difference "display: none" and "visibility: hidden"
 
 
 ==TIPS&TRICKS
