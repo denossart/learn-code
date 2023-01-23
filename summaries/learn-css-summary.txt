@@ -115,7 +115,10 @@ The "overflow" property deals with this:
 Because of difficulty of calculating the size
 
 ----Content-Box
+Default ("box-sizing: content-box")
+
 ----Border-Box
+"box-sizing: border-box"
 
 
 ==VISIBILITY
