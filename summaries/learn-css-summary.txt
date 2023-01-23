@@ -82,6 +82,9 @@ Content - padding - border - margin
 
 --BORDERS
 Width - style - color
+(medium - none - color of parent)
+
+If not set, the default applies
 
 --PADDINGS
 
