@@ -133,11 +133,14 @@ Difference "display: none" and "visibility: hidden"
 > width and height set to the same value
 > border-radius: 50%
 
---Box Model reset
+--Page reset
 Set margin and height to 0
 
+--New Box Model
+Set to "border-box"
+
 --Center
-margin: 0 auto;
+"margin: 0 auto;"
 
 Works only if the parent has a width
 
