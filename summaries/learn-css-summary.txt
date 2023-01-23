@@ -45,7 +45,7 @@ HTML style="...:..." attribute
 
 
 ==CSS RESETS
-Default style differs from browser to browser
+Because the default style differs from browser to browser
 
 --Eric Meyer's reset
 --Nicolas Gallagher's reset
