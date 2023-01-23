@@ -12,8 +12,16 @@
 ----ID selectors (#id-name)
 
 
-==DECLARATIONS
+==RULESET
+Selector + declaration block
+
+
+==DECLARATION BLOCK
 Between {}
+
+
+==DECLARATION
+Equals the property-value pair
 
 --Property
 Determines the style to apply
