@@ -75,6 +75,11 @@ Degree to which content behind an element is hidden
 Opposite of transparency
 
 
+==TRANSPARENCY
+
+...
+
+
 ==BOX MODEL: C.P.B.M.
 Content - padding - border - margin
 
@@ -84,7 +89,6 @@ User agent (aka browser) default stylesheets
 You can set a range = minimum/maximum width or height
 
 Mostly used on <img>, not so much on text
-
 
 --DIMENSIONS
 
@@ -101,11 +105,14 @@ Horizontal margins add: 20px + 30px = 50px
 
 Vertical margins don't: 20px + 30px = 30px
 
-
 --OVERFLOW
 When the parent (aka containing element aka container) isn't large enough for its content
 
 The "overflow" property deals with this: visible - hidden - scroll
+
+
+==VISIBILITY
+"hidden" - "visible" - "collapse"
 
 
 
@@ -118,6 +125,7 @@ The "overflow" property deals with this: visible - hidden - scroll
 
 --Box Model reset
 Set margin and height to 0
+
 
 
 ==SOURCES
