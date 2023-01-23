@@ -66,6 +66,14 @@ From top to bottom
 
 
 ==OPACITY (0 -> 1)
+Degree to which content behind an element is hidden
+
+0: completely hidden
+1: completely visible
+
+Opposite of transparency
+
+
 --Overlay: semi-transparent element placed over another element
 
 
