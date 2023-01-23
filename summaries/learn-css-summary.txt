@@ -75,12 +75,16 @@ Degree to which content behind an element is hidden
 Opposite of transparency
 
 
-==BOX MODEL
+==BOX MODEL: C.P.B.M.
 Content - padding - border - margin
 
 --DIMENSIONS
+
 --BORDERS
+Width - style - color
+
 --PADDINGS
+
 --MARGINS
 
 --OVERFLOW
