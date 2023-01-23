@@ -79,7 +79,9 @@ Opposite of transparency
 Content - padding - border - margin
 
 --WIDTH-HEIGHT
-You can set a minimum/maximum width or height
+You can set a range = minimum/maximum width or height
+
+Mostly used on <img>, not so much on text
 
 
 --DIMENSIONS
