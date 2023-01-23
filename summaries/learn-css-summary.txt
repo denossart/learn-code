@@ -82,6 +82,10 @@ Opposite of transparency
 --PADDINGS
 --MARGINS
 
+--OVERFLOW
+When the parent (aka containing element aka container) isn't large enough for its content
+
+The "overflow" property deals with this: visible - hidden - scroll
 
 
 ==SOURCES
