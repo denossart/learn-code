@@ -18,6 +18,9 @@ The combination of an HTML opening tag, content and closing tag
 
 Ex. <p>This is a paragraph</p>
 
+--BLOCK-LEVEL
+--INLINE-LEVEL
+
 
 ==TAGS
 
