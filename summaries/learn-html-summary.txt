@@ -140,6 +140,10 @@ Accessibility - SEO - Structure
 --<embed> - Deprecated!
 
 
+==CLASS / ID
+Should refer to the content of an element, not it's appearance
+
+
 ==SOURCES
 
 Free at the time of writing
