@@ -76,15 +76,15 @@ Scans code for errors
 
 ==LINKS
 
---Relative links
+--RELATIVE LINKS
 Link to a page on the same website and relative to the .html file containing the link
 
 No domain name needed
 
---Absolute links
+--ABSOLUTE LINKS
 Link to an external website, with domain name
 
---Email links
+--EMAIL LINKS
 href="mailto:...?subject=...&body=..."
 
 Spaces need to be encoded using %20 and line breaks using %0A
