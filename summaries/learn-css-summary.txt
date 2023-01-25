@@ -62,14 +62,15 @@ Except when the specificity of the ruleset breaks the cascade
 
 ==SPECIFICITY: I.C.T
 
-ID - Class - Type
-0  -   0   -   0
+--ID     1.0.0
+--CLASS  0.1.0
+--TYPE   0.0.1
 
 
 ==COMBINED SELECTOR
 Should be read from right to left
 
---KEY SELECTOR: the selector before the {
+--KEY SELECTOR: the selector before { identifies the element the styles will be applied to 
 --PREQUALIFIER: the selector to the left of the key selector
 
 --CHAINING SELECTORS
