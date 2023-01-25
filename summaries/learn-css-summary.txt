@@ -62,11 +62,18 @@ Except when the specificity of the ruleset breaks the cascade
 
 ==SPECIFICITY: I.C.T
 
+ID - Class - Type
+0  -   0   -   0
 
-==CHAINING SELECTORS
 
+==COMBINED SELECTOR
+Should be read from right to left
 
-==DESCENDANT COMBINATOR
+--KEY SELECTOR: the selector before the {
+--PREQUALIFIER: the selector to the left of the key selector
+
+--CHAINING SELECTORS
+--DESCENDANT COMBINATOR
 
 
 ==OPACITY (0 -> 1)
