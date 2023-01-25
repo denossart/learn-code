@@ -55,6 +55,10 @@ Because the default style differs from browser to browser
 ==CSS CASCADE
 For two identical styles in a style sheet that differ only in property value, the latter style takes precedence over the former
 
+So, usually styles cascade from top to bottom
+
+Except when the specificity of the ruleset breaks the cascade
+
 
 ==SPECIFICITY: I.C.T
 
