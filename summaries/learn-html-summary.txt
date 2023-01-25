@@ -144,6 +144,11 @@ Accessibility - SEO - Structure
 Should refer to the content of an element, not it's appearance
 
 
+==SPECIAL CHARACTERS
+
+&; with in between a code
+
+
 ==SOURCES
 
 Free at the time of writing
