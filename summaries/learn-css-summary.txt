@@ -53,7 +53,7 @@ Because the default style differs from browser to browser
 
 
 ==CSS CASCADE
-From top to bottom
+For two identical styles in a style sheet that differ only in property value, the latter style takes precedence over the former
 
 
 ==SPECIFICITY: I.C.T
