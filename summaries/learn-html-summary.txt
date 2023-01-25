@@ -84,6 +84,11 @@ No domain name needed
 --Absolute links
 Link to an external website, with domain name
 
+--Email links
+href="mailto:...?subject=...&body=..."
+
+Spaces need to be encoded using %20 and line breaks using %0A
+
 
 ==IMAGE ALTS
 Accessibility - SEO
