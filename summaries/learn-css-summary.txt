@@ -157,6 +157,18 @@ Set to "border-box"
 Works only if the parent has a width
 
 
+==COLORS
+
+--NAME               "color: black"
+--HEXADECIMAL VALUE  "color: #000000"
+--RGB VALUE          "color: rgb(0, 0, 0)"
+--HSL VALUE          "color: hsl(0, 0%, 0%)"
+
+
+==LENGTHS
+
+--ABSOLUTE     px (1/96th of an inch)
+--RELATIVE     %, em, rem
 
 
 ==SOURCES
