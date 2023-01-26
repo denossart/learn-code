@@ -159,6 +159,10 @@ Difference "display: none" and "visibility: hidden"
 "none" - "block" - "inline" - "inline-block"
 
 
+==WIDTH AND HEIGHT
+
+Only relevant to non-inline elements
+
 
 
 ==TIPS&TRICKS
