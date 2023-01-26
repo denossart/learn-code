@@ -114,6 +114,8 @@ If not set, the default applies
 
 --PADDINGS
 
+Paddings are transparent
+
 --MARGINS
 Horizontal margins add: 20px + 30px = 50px
 
