@@ -95,6 +95,8 @@ Opposite of transparency
 ==BOX MODEL: C.P.B.M.
 Content - Padding - Border - Margin
 
+By default the box model is additive
+
 User agent (aka browser) default stylesheets
 
 --WIDTH-HEIGHT
