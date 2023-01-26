@@ -119,6 +119,8 @@ Horizontal margins add: 20px + 30px = 50px
 
 Vertical margins don't: 20px + 30px = 30px
 
+Margins are transparent
+
 --OVERFLOW
 When the parent (aka containing element aka container) isn't large enough for its content
 
