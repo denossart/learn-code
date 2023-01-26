@@ -170,6 +170,10 @@ Difference "display: none" and "visibility: hidden"
 Only relevant to non-inline elements
 
 
+==FLOATS
+
+
+
 
 ==TIPS&TRICKS
 
