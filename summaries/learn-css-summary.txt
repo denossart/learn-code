@@ -139,24 +139,6 @@ Default ("box-sizing: content-box")
 Difference "display: none" and "visibility: hidden"
 
 
-==TIPS&TRICKS
-
---Circle
-> width and height set to the same value
-> border-radius: 50%
-
---Page reset
-Set margin and height to 0
-
---New Box Model
-Set to "border-box"
-
---Center
-"margin: 0 auto;"
-
-Works only if the parent has a width
-
-
 ==COLORS
 
 --NAME               "color: black"
@@ -169,6 +151,31 @@ Works only if the parent has a width
 
 --ABSOLUTE     px (1/96th of an inch)
 --RELATIVE     %, em, rem
+
+
+==DISPLAY PROPERTY
+"none" - "block" - "inline" - "inline-block"
+
+
+
+
+==TIPS&TRICKS
+
+--CSS CIRCLE
+> width and height set to the same value
+> border-radius: 50%
+
+--CSS BASIC PAGE RESET
+Set margin and height to 0
+
+--CSS NEW BOX MODEL
+Set to "border-box"
+
+--CSS CENTER CONTENT
+"margin: 0 auto;"
+
+Works only if the parent has a width
+
 
 
 ==SOURCES
