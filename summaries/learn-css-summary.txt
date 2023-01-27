@@ -161,8 +161,13 @@ Difference "display: none" and "visibility: hidden"
 --RELATIVE     %, em, rem
 
 
-==DISPLAY PROPERTY
+==DISPLAY PROPERTY VALUES
 "none" - "block" - "inline" - "inline-block"
+
+--INLINE-BLOCK POSITIONING
+Better option than floats
+
+These elements sit on one line and accept all "block-level" properties
 
 
 ==WIDTH AND HEIGHT
