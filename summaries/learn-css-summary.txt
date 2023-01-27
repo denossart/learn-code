@@ -172,6 +172,8 @@ Only relevant to non-inline elements
 ==FLOATS
 Used to remove an element from the normal flow of a page, and position it to the left/right of its parent element
 
+The width of a floated element defaults to the width of the content
+
 
 ==TIPS&TRICKS
 
