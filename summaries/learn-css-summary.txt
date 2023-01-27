@@ -176,6 +176,11 @@ The width of a floated element defaults to the width of the content
 
 A floated element's display value changes to "block" - it then accepts width and height
 
+--CLEARING FLOATS
+
+--CONTAINING FLOATS
+Better option
+
 
 ==TIPS&TRICKS
 
