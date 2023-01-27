@@ -179,6 +179,8 @@ A floated element's display value changes to "block" - it then accepts width and
 --CLEARING FLOATS
 
 --CONTAINING FLOATS
+Aka: "clearfix"
+
 Better option
 
 
