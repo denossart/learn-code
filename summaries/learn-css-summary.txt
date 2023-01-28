@@ -193,6 +193,12 @@ Better option
 
 ==PRECISE POSITIONING
 
+--POSITION
+"static" (default) - "relative" - "absolute"
+
+
+--BOX OFFSET
+"top" - "right" - "bottom" - "left"
 
 
 
