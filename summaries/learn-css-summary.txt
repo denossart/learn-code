@@ -165,7 +165,7 @@ Difference "display: none" and "visibility: hidden"
 "none" - "block" - "inline" - "inline-block"
 
 --INLINE-BLOCK POSITIONING
-Better option than floats
+Better option than floats to create layouts
 
 These elements sit on one line and accept all "block-level" properties
 
@@ -181,12 +181,29 @@ The width of a floated element defaults to the width of the content
 
 A floated element's display value changes to "block" - it then accepts width and height
 
+Used to create layouts
+
 --CLEARING FLOATS
 
 --CONTAINING FLOATS
 Aka: "clearfix"
 
 Better option
+
+
+==PRECISE POSITIONING
+
+
+
+
+==FLEX
+
+...
+
+
+==GRID
+
+...
 
 
 ==TIPS&TRICKS
