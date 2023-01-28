@@ -193,13 +193,15 @@ Better option
 
 ==PRECISE POSITIONING
 
---POSITION
+--POSITION (HOW)
 "static" (default) - "relative" - "absolute"
 
+----"static": normal flow - no box offset
+----"relative": normal flow - move in relation to itself
+----"absolute": not within normal flow - move in relation to parent (or body element)
 
---BOX OFFSET
+--BOX OFFSET (WHERE)
 "top" - "right" - "bottom" - "left"
-
 
 
 ==FLEX
