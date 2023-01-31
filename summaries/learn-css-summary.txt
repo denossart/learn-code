@@ -216,11 +216,11 @@ Better option
 
 ==RESPONSIVE DESIGN
 
---IN HTML
+--IN HTML: DEFINE VIEWPORT
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
---IN CSS
-@MEDIA RULE
+--IN CSS: DEFINE MEDIA QUERY
+
 ----First breakpoint: use max-width
 @media (max-width: 413px) {...}
 ----All following breakpoints: use min-width
