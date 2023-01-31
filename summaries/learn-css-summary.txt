@@ -110,7 +110,7 @@ By default the box model is additive ("content-box")
 
 User agent (aka browser) default stylesheets
 
---WIDTH-HEIGHT
+--WIDTH AND HEIGHT
 You can set a range = minimum/maximum width or height
 
 Mostly used on <img>, not so much on text
@@ -179,7 +179,10 @@ Difference "display: none" and "visibility: hidden"
 ==DISPLAY PROPERTY VALUES
 "none" - "block" - "inline" - "inline-block"
 
---INLINE-BLOCK POSITIONING
+--INLINE
+Doesn't accept a width or height
+
+--INLINE-BLOCK
 Better option than floats to create layouts
 
 These elements sit on one line and accept all "block-level" properties
