@@ -42,6 +42,7 @@
 
 ==RESPONSIVE DESIGN
 > https://www.browserstack.com/responsive-design
+> https://www.browserstack.com/guide/responsive-design-breakpoints
 
 
 ==PROJECTS
