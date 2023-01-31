@@ -223,6 +223,10 @@ Better option
 --BOX OFFSET (WHERE)
 "top" - "right" - "bottom" - "left"
 
+--Z-INDEX
+Does not work on "static" positioning
+
+Default = 0
 
 
 ==FLEX
