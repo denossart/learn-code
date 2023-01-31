@@ -214,22 +214,41 @@ Better option
 ...
 
 
+==RESPONSIVE DESIGN
+
+--IN HTML
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+--IN CSS
+@MEDIA RULE
+----First breakpoint: use max-width
+@media (max-width: 413px) {...}
+----All following breakpoints: use min-width
+@media (min-width: 414px) {...}
+----Breakpoints: 414px/654px/916px/...
+
+
 ==TIPS&TRICKS
 
 --CSS CIRCLE
 > width and height set to the same value
 > border-radius: 50%
 
+
 --CSS BASIC PAGE RESET
 Set margin and height to 0
 
+
 --CSS NEW BOX MODEL
 Set to "border-box"
+
 
 --CSS CENTER CONTENT
 "margin: 0 auto;"
 
 Works only if the parent has a width
+
+
 
 
 
