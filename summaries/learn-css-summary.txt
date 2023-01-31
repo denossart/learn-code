@@ -197,6 +197,8 @@ Only relevant to non-inline elements
 ==FLOATS
 Used to remove an element from the normal flow of a page, and position it to the left/right of its parent element
 
+Applying a float only yields a visible result if it has a width
+
 The width of a floated element defaults to the width of the content
 
 A floated element's display value changes to "block" - it then accepts width and height
