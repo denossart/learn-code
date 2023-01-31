@@ -229,6 +229,11 @@ Better option
 
 ----Common breakpoints: 480/768/1024/1280px
 
+----Common breakpoints:
+------Small: < 640px
+------Medium: 641px - 1007px
+------Large: 1008px >
+
 
 ==TIPS&TRICKS
 
