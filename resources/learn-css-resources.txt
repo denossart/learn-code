@@ -3,8 +3,10 @@
 > https://developer.mozilla.org/en-US/docs/Web/CSS
 
 
+
 ==SELECTORS
 > https://www.codecademy.com/learn/paths/fscj-22-web-development-foundations/tracks/fscj-22-fundamentals-of-css/modules/wdcp-22-learn-css-selectors-and-visual-rules-0507dd23-134e-4011-af2c-a06b06ad53f2/cheatsheet
+
 
 
 ==RESETS
@@ -12,8 +14,10 @@
 > necolas.github.io/normalize.css/
 
 
+
 ==TERMINOLOGY
 > impressivewebs.com/css-terms-definitions/
+
 
 
 ==COLOR THEORY
@@ -26,23 +30,35 @@
 > https://colorsupplyyy.com/app/
 
 
+
 ==BOX MODEL
 > https://www.codecademy.com/learn/paths/fscj-22-web-development-foundations/tracks/fscj-22-fundamentals-of-css/modules/wdcp-22-learn-css-the-box-model-c8543ca0-92d4-4824-bb89-35a1fb0189d4/cheatsheet
 
 > https://youtu.be/uQi8TK-GDO4
 
 
+
 ==DISPLAY AND POSITIONING
 > https://www.codecademy.com/learn/paths/fscj-22-web-development-foundations/tracks/fscj-22-fundamentals-of-css/modules/wdcp-22-learn-css-display-and-positioning-fcf96efc-f6fb-4002-bdb4-f4f6b4b3d52c/cheatsheet
+
+
+
+==FLEXBOX
+> https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
 
 
 ==TOOLKITS
 > https://getbootstrap.com/
 
 
+
 ==RESPONSIVE DESIGN
 > https://www.browserstack.com/responsive-design
 > https://www.browserstack.com/guide/responsive-design-breakpoints
+> https://learn.microsoft.com/en-us/windows/apps/design/layout/screen-sizes-and-breakpoints-for-responsive-design
+> https://www.freecodecamp.org/news/responsive-web-design-how-to-make-a-website-look-good-on-phones-and-tablets/
+
 
 
 ==PROJECTS
