@@ -40,6 +40,10 @@
 > https://getbootstrap.com/
 
 
+==RESPONSIVE DESIGN
+> https://www.browserstack.com/responsive-design
+
+
 ==PROJECTS
 
 --SMALL
