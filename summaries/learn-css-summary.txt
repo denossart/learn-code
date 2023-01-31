@@ -212,11 +212,13 @@ Better option
 ==PRECISE POSITIONING
 
 --POSITION (HOW)
-"static" (default) - "relative" - "absolute"
+"static" (default) - "relative" - "absolute" - "fixed" - "sticky"
 
 ----"static": normal flow - no box offset
 ----"relative": normal flow - move in relation to itself
 ----"absolute": not within normal flow - move in relation to parent (or body element)
+----"fixed": ...
+----"sticky": ...
 
 --BOX OFFSET (WHERE)
 "top" - "right" - "bottom" - "left"
