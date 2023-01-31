@@ -12,12 +12,15 @@
 ----ID selectors (#id-name)
 
 
+
 ==RULESET
 Selector + declaration block
 
 
+
 ==DECLARATION BLOCK
 Between {}
+
 
 
 ==DECLARATION
@@ -28,6 +31,7 @@ Determines the style to apply
 --:
 --Value
 --;
+
 
 
 ==REFERENCING CSS
@@ -44,12 +48,14 @@ HTML <style> element in <head>
 HTML style="...:..." attribute
 
 
+
 ==CSS RESETS
 Because the default style differs from browser to browser
 
 --Eric Meyer's reset
 --Nicolas Gallagher's reset
 --Lots of others
+
 
 
 ==CSS CASCADE
@@ -60,11 +66,13 @@ So, usually styles cascade from top to bottom
 Except when the specificity of the ruleset breaks the cascade
 
 
+
 ==SPECIFICITY: I.C.T
 
 --ID     1.0.0
 --CLASS  0.1.0
 --TYPE   0.0.1
+
 
 
 ==COMBINED SELECTOR
@@ -77,6 +85,7 @@ Should be read from right to left
 --DESCENDANT COMBINATOR
 
 
+
 ==OPACITY (0 -> 1)
 Degree to which content behind an element is hidden
 
@@ -87,9 +96,11 @@ Degree to which content behind an element is hidden
 Opposite of transparency
 
 
+
 ==TRANSPARENCY
 
 ...
+
 
 
 ==BOX MODEL: C.P.B.M.
@@ -141,10 +152,12 @@ Default ("box-sizing: content-box")
 "box-sizing: border-box"
 
 
+
 ==VISIBILITY
 "hidden" - "visible" - "collapse"
 
 Difference "display: none" and "visibility: hidden"
+
 
 
 ==COLORS
@@ -155,10 +168,12 @@ Difference "display: none" and "visibility: hidden"
 --HSL VALUE          "color: hsl(0, 0%, 0%)"
 
 
+
 ==LENGTHS
 
 --ABSOLUTE     px (1/96th of an inch)
 --RELATIVE     %, em, rem
+
 
 
 ==DISPLAY PROPERTY VALUES
@@ -170,8 +185,10 @@ Better option than floats to create layouts
 These elements sit on one line and accept all "block-level" properties
 
 
+
 ==WIDTH AND HEIGHT
 Only relevant to non-inline elements
+
 
 
 ==FLOATS
@@ -191,6 +208,7 @@ Aka: "clearfix"
 Better option
 
 
+
 ==PRECISE POSITIONING
 
 --POSITION (HOW)
@@ -204,14 +222,17 @@ Better option
 "top" - "right" - "bottom" - "left"
 
 
+
 ==FLEX
 
 ...
 
 
+
 ==GRID
 
 ...
+
 
 
 ==RESPONSIVE DESIGN
@@ -235,6 +256,7 @@ Better option
 ------Large: 1008px >
 
 
+
 ==TIPS&TRICKS
 
 --CSS CIRCLE
@@ -255,8 +277,19 @@ Set to "border-box"
 
 Works only if the parent has a width
 
+--CSS DEBUGGING
+"outline: 1px solid red;"
 
+Benefit: "outline" doesn't take up any space
 
+--CSS POLKA DOTS BACKGROUND
+> https://dev.to/clairecodes/how-to-create-a-polka-dot-background-with-css-23m0
+
+--UPPERCASE TEXT
+"text-transform: uppercase;"
+
+==ROTATING AN IMAGE
+"img {transform: rotate(180deg);}
 
 
 ==SOURCES
