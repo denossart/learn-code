@@ -24,7 +24,7 @@ Between {}
 
 
 ==DECLARATION
-Equals the property-value pair
+Aka the Property-Value pair
 
 --Property
 Determines the style to apply
@@ -56,6 +56,8 @@ Because the default style differs from browser to browser
 --Nicolas Gallagher's reset
 --Lots of others
 
+--Basic Reset: margin / padding / border-box
+
 
 
 ==CSS CASCADE
@@ -82,6 +84,7 @@ Should be read from right to left
 --PREQUALIFIER: the selector to the left of the key selector
 
 --CHAINING SELECTORS
+
 --DESCENDANT COMBINATOR
 
 
@@ -128,7 +131,7 @@ If not set, the default applies
 Paddings are transparent
 
 --MARGINS
-Horizontal margins add: 20px + 30px = 50px
+Horizontal margins add up: 20px + 30px = 50px
 
 Vertical margins don't: 20px + 30px = 30px
 
