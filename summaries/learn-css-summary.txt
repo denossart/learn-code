@@ -89,14 +89,16 @@ Should be read from right to left
 
 
 
-==OPACITY (0 -> 1)
+==OPACITY (0 -> 1) AKA ALPHA
 Degree to which content behind an element is hidden
 
---0: completely hidden
---1: completely visible
+--1: top element = 0% transparent / bottom element = completely hidden
+--0: top element = 100% transparent / bottom element = 100% visible
 --Overlay: semi-transparent element placed over another element
 
-Opposite of transparency
+--opaque = "non-transparent"
+
+--color: transparent;
 
 
 
@@ -165,16 +167,35 @@ Difference "display: none" and "visibility: hidden"
 
 ==COLORS
 
---NAME                         "color: black"
+--NAMED                        "color: black"
 --HEXADECIMAL VALUE (base-16)  "color: #000000"
 --RGB VALUE                    "color: rgb(0, 0, 0)"
 --HSL VALUE                    "color: hsl(0, 0%, 0%)"
 
---RGB
+--NAMED
++/- 140 different colors
+
+--HEX AND HEXA
 Red-Green-Blue
 
---HSL
-Hue-Saturation-Lightness
+0-9
+A-F (= 10-15)
+
+256*256*256 different colors
+
+--RGB AND RGBA
+Red-Green-Blue
+
+0-255
+
+256*256*256 different colors
+
+--HSL AND HSLA
+Hue-Saturation-Lightness-Alpha
+
+360°-%-%
+
+Red(0/360)-Green(120)-Blue(240)
 
 
 
