@@ -66,6 +66,15 @@
 ====WEB SAF FONTS
 > https://www.cssfontstack.com/
 
+====WEB FONTS
+
+======Free
+> https://fonts.google.com/
+> https://fonts.adobe.com/
+
+======Paid
+> https://www.fonts.com/
+
 
 
 ==PROJECTS
