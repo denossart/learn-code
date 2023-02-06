@@ -346,8 +346,9 @@ Normal (400), bold (700)
 Unitless numbers preferred
 
 ====WEB FONTS
-Link relative path of downloaded font via "@font-face" ruleset
-
+Link fonts to site using:
+------<link> in <head> (absolute link to provider)
+------@font-face ruleset (relative path to local file)
 
 
 
