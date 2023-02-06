@@ -264,6 +264,7 @@ Does not work on "static" positioning
 Default = 0
 
 
+
 ==FLEX
 
 ...
@@ -331,6 +332,12 @@ Benefit: "outline" doesn't take up any space
 
 ==ROTATING AN IMAGE
 "img {transform: rotate(180deg);}
+
+
+
+==TYPOGRAPHY
+
+--WEB SAFE FONTS
 
 
 ==SOURCES
