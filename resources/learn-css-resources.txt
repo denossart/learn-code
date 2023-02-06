@@ -70,6 +70,7 @@
 
 ======Free
 > https://fonts.google.com/
+> https://gwfh.mranftl.com/fonts (to self-host fonts)
 > https://fonts.adobe.com/
 
 ======Paid
