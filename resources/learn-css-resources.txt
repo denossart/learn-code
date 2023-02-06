@@ -61,6 +61,13 @@
 
 
 
+==TYPOGRAPHY
+
+====WEB SAF FONTS
+> https://www.cssfontstack.com/
+
+
+
 ==PROJECTS
 
 --SMALL
