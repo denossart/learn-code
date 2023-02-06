@@ -339,6 +339,13 @@ Benefit: "outline" doesn't take up any space
 
 --WEB SAFE FONTS
 
+--FONT WEIGHT
+Normal (400), bold (700)
+
+--LINE HEIGHT
+Unitless numbers preferred
+
+
 
 ==SOURCES
 
