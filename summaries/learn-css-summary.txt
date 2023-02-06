@@ -337,13 +337,17 @@ Benefit: "outline" doesn't take up any space
 
 ==TYPOGRAPHY
 
---WEB SAFE FONTS
+====WEB SAFE FONTS
 
---FONT WEIGHT
+====FONT WEIGHT
 Normal (400), bold (700)
 
---LINE HEIGHT
+====LINE HEIGHT
 Unitless numbers preferred
+
+====WEB FONTS
+Link relative path of downloaded font via "@font-face" ruleset
+
 
 
 
