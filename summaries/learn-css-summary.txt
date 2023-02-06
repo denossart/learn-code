@@ -346,9 +346,14 @@ Normal (400), bold (700)
 Unitless numbers preferred
 
 ====WEB FONTS
+
 Link fonts to site using:
-------<link> in <head> of html file (absolute link to provider)
-------@font-face ruleset in css file (relative path to local file)
+--<link> in <head> of html file
+Absolute link to provider
+
+--@font-face ruleset in css file
+----Relative path to local file: OTF/TTF/WOFF/WOFF2
+----Copy of "Latin" section of href provider link
 
 
 
